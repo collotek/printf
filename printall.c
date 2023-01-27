@@ -12,7 +12,6 @@
  */
 int _printf(const char *format, ...)
 {
-	//expressions
 	int i = 0; 
 	int count = 0;
        	int value = 0;
